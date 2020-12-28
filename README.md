@@ -1,2 +1,2 @@
-# Tic tac toe
- a simple tic tac toe using js
+# Jogo da Velha
+ Um simples jogo da velha usando javaScript
